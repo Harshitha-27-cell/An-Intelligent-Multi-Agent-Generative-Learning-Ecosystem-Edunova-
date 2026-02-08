@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EDUNOVA AI - Your Career Compass",
+  "description": "A modern, high-fidelity EduTech platform focused on personalized career guidance and placement preparation with a professional blue and indigo dark theme.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
